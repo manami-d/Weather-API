@@ -1,7 +1,10 @@
 # Weather App
 
 ## Description
-This is a project using all the things I have learnt so far which includes:
+This is a project to create a weather App using all the things I have learnt so far.
+![](./img/weatherApp.png)
+
+###Technology I used
 - HTML
 - CSS
 - Bootstrap
