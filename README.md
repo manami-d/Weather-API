@@ -4,7 +4,7 @@
 This is a project to create a weather App using all the things I have learnt so far.
 ![](./img/weatherApp.png)
 
-###Technology I used
+### Technology I used
 - HTML
 - CSS
 - Bootstrap
