@@ -49,7 +49,7 @@ button.addEventListener('click', async (event) => {
   event.preventDefault()
   let inputCity = document.querySelector('input').value.toLowerCase();
   // console.log(city);
-  const response = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${inputCity}&appid=d1f683e5ef0e53192c200bcb85773a55`);
+  const response = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${inputCity}&appid=${api key here}`);
   const data = await response.json();
   const cityName = data.name;
   console.log(data);
